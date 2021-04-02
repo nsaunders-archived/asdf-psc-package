@@ -6,14 +6,6 @@
 
 </div>
 
-# Contents
-
-- [Dependencies](#dependencies)
-- [Install](#install)
-- [Why?](#why)
-- [Contributing](#contributing)
-- [License](#license)
-
 # Dependencies
 
 - `bash`, `curl`, `tar`: generic POSIX utilities.
